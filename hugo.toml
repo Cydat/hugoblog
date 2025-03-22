@@ -10,7 +10,7 @@
 title = "博客"
 baseURL = "http://example.org/"
 # Change the default theme to be use when building the site with Hugo
-theme = "FixIt-0.3.16"
+theme = "FixIt"
 
 [markup]
   _merge = "shallow"
